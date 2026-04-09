@@ -5,7 +5,7 @@ Meta-package with essential Laravel tooling. One install for runtime packages, o
 ## Installation
 
 ```bash
-composer require skylence/essentials
+composer require skylence/laravel-essentials
 ```
 
 ## What's Included
