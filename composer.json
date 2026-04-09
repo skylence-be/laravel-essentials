@@ -1,5 +1,5 @@
 {
-    "name": "skylence/essentials",
+    "name": "skylence/laravel-essentials",
     "description": "Meta-package with essential Laravel dev tooling",
     "keywords": ["laravel", "essentials", "meta-package", "dev-tools"],
     "license": "MIT",
