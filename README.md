@@ -15,18 +15,13 @@ composer require skylence/laravel-essentials
 | Package | What it does |
 |---------|-------------|
 | [nunomaduro/essentials](https://github.com/nunomaduro/essentials) | Better defaults for Laravel (strict models, immutable dates, force HTTPS, etc.) |
-| [spatie/laravel-backup](https://github.com/spatie/laravel-backup) | Backup your application |
-| [spatie/laravel-health](https://github.com/spatie/laravel-health) | Health checks for your application |
-| [spatie/laravel-model-states](https://github.com/spatie/laravel-model-states) | State machines for Eloquent models |
-| [spatie/laravel-permission](https://github.com/spatie/laravel-permission) | Roles and permissions |
-| [spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder) | Build Eloquent queries from API requests |
 
 ### Dev (require-dev)
 
 | Package | What it does |
 |---------|-------------|
 | [captainhook/captainhook](https://github.com/captainhookphp/captainhook) | Git hooks management |
-| [laravel/boost](https://github.com/laravel/boost) | MCP server for AI agent integration |
+| [larastan/larastan](https://github.com/larastan/larastan) | PHPStan for Laravel |
 | [laravel/pint](https://github.com/laravel/pint) | Code style fixer |
 | [nunomaduro/collision](https://github.com/nunomaduro/collision) | Beautiful error reporting |
 | [orchestra/testbench](https://github.com/orchestral/testbench) | Laravel package testing |
@@ -35,7 +30,7 @@ composer require skylence/laravel-essentials
 | [pestphp/pest-plugin-laravel](https://github.com/pestphp/pest-plugin-laravel) | Laravel testing helpers |
 | [pestphp/pest-plugin-type-coverage](https://github.com/pestphp/pest-plugin-type-coverage) | Type coverage analysis |
 | [phpstan/phpstan](https://github.com/phpstan/phpstan) | Static analysis |
-| [larastan/larastan](https://github.com/larastan/larastan) | PHPStan for Laravel |
+| [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) | PHPStan deprecation rules |
 | [rector/rector](https://github.com/rectorphp/rector) | Automated refactoring |
 | [spatie/laravel-ray](https://github.com/spatie/laravel-ray) | Debug with Ray |
 
