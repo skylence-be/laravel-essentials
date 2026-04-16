@@ -11,6 +11,7 @@
     ],
     "require": {
         "php": "^8.3",
+        "livewire/blaze": "^1.0",
         "nunomaduro/essentials": "^0.1"
     },
     "require-dev": {
