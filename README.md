@@ -14,6 +14,7 @@ composer require skylence/laravel-essentials
 
 | Package | What it does |
 |---------|-------------|
+| [livewire/blaze](https://github.com/livewire/blaze) | Livewire component library |
 | [nunomaduro/essentials](https://github.com/nunomaduro/essentials) | Better defaults for Laravel (strict models, immutable dates, force HTTPS, etc.) |
 
 ### Dev (require-dev)
