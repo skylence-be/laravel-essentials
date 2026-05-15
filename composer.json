@@ -16,10 +16,10 @@
     },
     "require-dev": {
         "captainhook/captainhook": "^5.27",
-        "captainhook/hook-installer": "^5.0",
+        "captainhook/hook-installer": "^1.0",
         "laravel/pint": "^1.14",
         "nunomaduro/collision": "^8.9",
-        "orchestra/testbench": "^10.0 || ^11.0",
+        "orchestra/testbench": "^9.0 || ^10.0 || ^11.0",
         "pestphp/pest": "^3.0 || ^4.0",
         "pestphp/pest-plugin-arch": "^3.0 || ^4.0",
         "pestphp/pest-plugin-laravel": "^3.0 || ^4.0",
